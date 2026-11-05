@@ -1,0 +1,12 @@
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS files
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store

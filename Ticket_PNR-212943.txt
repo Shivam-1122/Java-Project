@@ -1,0 +1,25 @@
+=================================================================
+         OFFICIAL ELECTRONIC RESERVATION SLIP (ERS)              
+=================================================================
+PNR NUMBER     : PNR-212943
+BOOKING STATUS : CONFIRMED
+VEHICLE TYPE   : Train
+SERVICE NAME   : Vande Bharat Express (20608)
+TRAVEL CLASS   : Executive Chair (EC)
+ROUTE          : Bengaluru (SBC) -> Chennai Central (MAS)
+JOURNEY DATE   : 2026-10-01
+DEPARTURE      : 05:45
+ARRIVAL        : 10:05
+-----------------------------------------------------------------
+PASSENGER DETAILS:
+  1. Passenger boy | Age: 28 | Male | Allocated Seat: E1-9 | Fare: Rs. 1450
+  2. Passenger 2 | Age: 32 | Male | Allocated Seat: E1-21 | Fare: Rs. 1450
+  3. Passenger 3 | Age: 36 | Male | Allocated Seat: E1-27 | Fare: Rs. 1450
+  4. Passenger 4 | Age: 40 | Male | Allocated Seat: E1-15 | Fare: Rs. 1450
+-----------------------------------------------------------------
+TOTAL FARE PAID: Rs. 5550
+CONTACT EMAIL  : traveler@example.com
+CONTACT PHONE  : +91 98765 12340
+BOOKING TIME   : 2026-10-01T22:26:11.163214
+=================================================================
+Thank you for booking with us. Have a safe and comfortable journey!
